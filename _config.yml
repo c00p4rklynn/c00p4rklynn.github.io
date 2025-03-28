@@ -5,3 +5,16 @@ description: A website to show my joy in learning physics and spreading it to th
 # Book configuration
 disablePathToLower: true
 enableGitInfo: true
+
+# Allow emoji shortcodes
+enableEmoji: true
+
+menu:
+  # before: []
+  after:
+    - name: "Github"
+      url: "https://github.com/Peppyhare/r"
+      weight: 10
+    - name: "Hugo Themes"
+      url: "https://themes.gohugo.io/hugo-book/"
+      weight: 20
